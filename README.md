@@ -1,19 +1,20 @@
 # network_study_level_edge_triggered
 step:
 
-make
+1. make
 
-open a terminal:
+2. open a terminal:
 ./server
 
 
-then open another terminal:
+3. then open another terminal:
 ./client
 
-and write abcdefg
+4. and write abcdefg in client terminal
 
-you will see some output in the server terminal.
+5. you will see some output in the server terminal.
 
 
-switch comment in add_event.
+switch comment in add_event to see the difference in level triggered and edge triggered.
 
+I have refered: https://blog.csdn.net/hyman_c/article/details/53944949
