@@ -18,3 +18,7 @@ step:
 switch comment in add_event to see the difference in level triggered and edge triggered.
 
 I have refered: https://blog.csdn.net/hyman_c/article/details/53944949
+
+The code is in the source of 后台开发:核心技术与应用实践 p278
+
+Thank you, enjoy it!
